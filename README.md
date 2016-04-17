@@ -11,6 +11,7 @@ This is app is very incomplete and does not have good test coverage. Given more 
 
 This app uses:
 * React
+* redux
 * Webpack
 * Mocha + utils
 * bootstrap.css
