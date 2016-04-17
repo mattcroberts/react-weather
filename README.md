@@ -13,3 +13,5 @@ This app uses:
 React
 Webpack
 Mocha + utils
+bootstrap.css
+openweathermap.org API
