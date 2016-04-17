@@ -1,0 +1,29 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css");
+
+.forecast {
+  float: none;
+  margin-bottom: 10px;
+}
+
+.forecast-day {
+  padding: 5px 10px;
+  background-color: lightblue;
+}
+
+.forecast-day dt {
+  width: 50px;
+}
+
+.forecast-day dd {
+  margin-left: 60px;
+}
+
+.day-header h2 {
+  float: left;
+  margin: 0;
+}
+
+.day-header img {
+  float:right;
+}
