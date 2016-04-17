@@ -10,8 +10,8 @@ Alternatively, npm install && npm start -s to start dev mode.
 This is app is very incomplete and does not have good test coverage. Given more time I would have liked to have broken down the components more and cleaned up the CSS, removing unecessary imports.
 
 This app uses:
-React
-Webpack
-Mocha + utils
-bootstrap.css
-openweathermap.org API
+* React
+* Webpack
+* Mocha + utils
+* bootstrap.css
+* openweathermap.org API
